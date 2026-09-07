@@ -27,7 +27,7 @@ function calculateFinalPrice(price, quantity, discount) {
   }
 
   return "Order approved";
-}
+
 
 const order = {
   price: 1000,
